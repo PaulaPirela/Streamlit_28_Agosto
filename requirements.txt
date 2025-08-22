@@ -3,3 +3,4 @@ huggingface_hub
 pydantic
 python-dotenv
 requests
+opencv-python-headless
