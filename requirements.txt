@@ -1,7 +1,6 @@
 streamlit
-huggingface_hub
-pydantic
-python-dotenv
-requests
 opencv-python-headless
+numpy
+pillow
+scikit-learn
 pytesseract
