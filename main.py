@@ -5,6 +5,7 @@ import cv2
 import numpy as np
 from sklearn.cluster import KMeans
 import os
+import pytesseract
 
 def analizar_imagen(imagen_pil):
     """
